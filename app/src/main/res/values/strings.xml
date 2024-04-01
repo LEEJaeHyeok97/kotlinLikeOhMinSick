@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="HelloWorld">Any Text</string>
+    <string name="NAME">NAME</string>
+    <string name="ID">ID</string>
+    <string name="results">Results: %s</string>
+</resources>
